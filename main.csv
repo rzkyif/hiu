@@ -1,0 +1,55 @@
+nama,genus,spesies,keberadaan,habitat,min_ukuran,max_ukuran,pertanyaan_1,pertanyaan_2,pertanyaan_3
+lonjor,Carcharhinus,amblyrhynchos,Umum,Perairan karang,70,230,96,119,-7
+plen,Carcharhinus,brevipinna,Umum,Paparan benua,80,280,121,5,-7
+lanjaman,Carcharhinus,dussumieri,Umum,Paparan benua,30,100,77,78,122
+mungsing,Carcharhinus,falciformis,Umum,Paparan benua,50,350,61,10,4
+kerbau,Carcharhinus,leucas,Umum,Perairan pantai,60,400,54,110,116
+kejen,Carcharhinus,limbatus,Umum,Paparan benua,60,250,93,49,-4
+koboy,Carcharhinus,longimanus,Umum,Oseanik,60,300,81,80,118
+karang sirip hitam,Carcharhinus,melanopterus,Umum,Perairan karang,40,140,53,68,-4
+merak bulu,Carcharhinus,obscurus,Umum,Paparan benua,80,400,60,9,4
+lanjaman,Carcharhinus,sealei,Umum,Paparan benua,-,-,77,42,48
+mungsing,Carcharhinus,sorrah,Umum,Paparan benua,50,160,123,76,4
+sonteng,Carcharhinus,albimarginatus,Jarang,Paparan benua,80,300,125,7,
+teteri,Carcharhinus,plumbeus,Jarang,Paparan benua,70,250,90,50,4
+mungsing jara,Galeocerdo,cuvier,Umum,Paparan benua,70,700,99,51,29
+kejen,Loxodon,macrorhinus,Jarang,Perairan pantai,-,-,44,59,6
+biru,Prionace,glauca,Umum,Oseanik,-,-,84,70,18
+pisang,Rhizoprionodon,acutus,Umum,Paparan benua,30,110,58,28,56
+pilus,Rhizoprionodon,oligolinx,Jarang,Paparan benua,20,70,58,28,1
+plen,Scoliodon,macrorhynchos,Jarang,Paparan benua,15,77,37,83,128
+bokem,Triaenodon,obesus,Umum,Perairan karang,60,200,74,124,52
+martil,Sphyrna,lewini,Umum,Paparan benua,50,420,39,95,92
+martil,Sphyrna,mokarran,Jarang,Paparan benua,60,600,39,14,89
+martil,Sphyrna,zygaena,Jarang,Paparan benua,50,350,39,15,92
+kacang,Hemigaleus,microstoma,Umum,Paparan benua,45,110,32,22,21
+monas,Hemipristis,elongata,Jarang,Paparan benua,45,110,32,23,21
+kacang,Paragaleus,tengi,Jarang,Perairan pantai,45,110,32,22,-21
+kacang,Mustelus,manazo,Umum,Paparan benua,30,110,47,62,3
+kacang,Hemitriakis,indroyonoi,Jarang,Paparan benua,40,100,46,91,117
+monyet,Alopias,pelagicus,Umum,Oseanik,130,340,27,43,-8
+monyet,Alopias,superciliosus,Umum,Oseanik,140,460,27,45,8
+mako,Isurus,oxyrichus,Umum,Oseanik,100,417,26,66,16
+mako,Isurus,paucus,Jarang,Oseanik,30,110,26,65,3
+paus,Rhincodon,typus,Jarang,Oseanik,60,1200,112,20,31
+tutul,Stegostoma,fasciatum,Umum,Perairan karang,30,270,71,19,105
+batu,Chiloscyllium,punctatum,Umum,Paparan benua,20,110,34,12,-106
+bongo,Chiloscyllium,hasselti,Jarang,Perairan pantai,15,80,34,13,111
+bongol,Chiloscyllium,griseum,Jarang,Perairan pantai,15,74,34,11,115
+tokek pasir,Chiloscyllium,indicum,Jarang,Perairan pantai,15,65,107,30,114
+bongo,Chiloscyllium,plagiosum,Jarang,Perairan pantai,15,95,94,30,113
+tokek,Atelomycterus,marmoratus,Umum,Perairan karang,25,70,35,73,40
+tokek Bali,Atelomycterus,baliensis,Jarang,Perairan karang,25,50,35,72,38
+lepang,Cephaloscyllium,pictum,Jarang,Laut dalam,25,70,75,41,17
+tongar,Pseudocarcharhias,kamoharai,Jarang,Oseanik,40,110,55,24,100
+kodok,Squatina,legnota,Jarang,Paparan benua,25,140,69,-104,33
+beurit,Zameus,squamulosus,Jarang,Laut dalam,40,160,57,34,108
+beurit,Dalatias,licha,Jarang,Laut dalam,30,180,36,85,129
+botol monyong,Deania,calcea,Jarang,Laut dalam,25,80,88,-109,25
+botol danten,Centrophorus,moluccensis,Jarang,Laut dalam,35,100,82,101,120
+botol,Centrophorus,squamosus,Jarang,Laut dalam,40,160,79,101,87
+botol,Squalus,edmundsi,Jarang,Laut dalam,25,87,82,103,102
+botol,Squalus,hemipinnis,Jarang,Laut dalam,20,78,82,101,86
+areuy,Heptranchias,perlo,Jarang,Laut dalam,25,140,2,126,67
+cucut meong,Hexanchus,griseus,Jarang,Laut dalam,70,480,98,127,63
+areuy,Hexanchus,nakamurai,Jarang,Laut dalam,45,180,97,126,64
